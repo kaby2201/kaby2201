@@ -1,5 +1,4 @@
 ### Hi there 👋
-I have moved to gitlab at https://kaby.codes/
 <!--
 **kaby2201/kaby2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
